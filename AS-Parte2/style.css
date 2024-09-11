@@ -1,0 +1,100 @@
+.caixa{
+ width: 55%;
+ border: 2px solid;
+ background-color: lightgray;
+ padding: 30px;
+ 
+}
+h1{
+    margin: 40px;
+}
+
+.botao{
+    width: 45%;
+    border: 1px solid gray;
+    height: 70px;
+    margin-right: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+   
+}
+.opicao{
+    width: 25%;
+    border: 1px solid gray;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+  
+
+}
+.add{
+    width: 19%;
+    border: 1px solid green;
+    background-color: green;
+    margin-top: 25px;
+    color: black;
+    height: 70px;
+    
+}
+.legenda{
+    margin-top: 50px;
+    width: 95%;
+    border: 1px solid gray;
+    padding-bottom: 40px;
+    
+
+}
+.cx1{
+    width: 20%;
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 10px ;
+    background-color: red;
+    color: white;
+    margin: auto;
+}
+.cx2{
+    width: 20%;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    padding: 10px ;
+    background-color: yellow;
+    color: white;
+    margin: auto;   
+}
+.cx3{
+    width: 20%;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 10px ;
+    background-color: green;
+    color: white;
+    margin: auto;
+}
+
+.list{
+    color: black;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    width: 90%;
+    border-radius: 15px;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.btn{
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    color: rgba(33, 33, 36, 0.655);
+
+}
+.data{
+    
+    font-size: 20px;
+    padding: 10px;
+    color: rgba(33, 33, 36, 0.655);
+}
