@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+body {
+    background-color: #f1f3f4;
+}
+
+.header {
+    background-color: #162e58;
+    color: white;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.header h1 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.header h2 {
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+}
+
+.grupos, .gols, .assist{
+    width: 60%;
+    background-color: white;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 16px;
+    color: #5E5E5E;
+}
+th{
+    font-weight: 400;
+}
+
+td {
+    border-top: solid 1px #f1f3f4;
+   
+
+}
+.club-img{
+    width: 24px;
+    height: 24px;
+}
+.text-left{
+    text-align: left;
+    padding-left: 10px;
+}
+.w-300{
+    width: 300px;
+}
+.estat{
+    background-color: #162e58;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+.estat h2{
+    font-size: 12px;
+    font-weight: 400;
+}
+.jogador-img{
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+}
+.w-40{
+    width: 40px;
+}
+.borda{
+    border-left: solid 1px  #4285F4;
+}
+.borda2{
+    border-left: solid 1px #FA7B17;
+}
